@@ -2,7 +2,8 @@
     background-color: var(--branco);
     display: flex;
     justify-content: space-around;
-    margin: 1em;
+    margin: 2em 0;
+    align-items: center;
 }
 
 .cabecalho__logo{
@@ -15,12 +16,6 @@
     font-size: 18px;
     color: var(--cinza-escuro);
     padding-left: .5em;
-}
-
-.cabecalho__paginas,
-.cabecalho__botoes{
-    display: flex;
-    align-items: center;
 }
 
 .cabecalho__paginas-links,
