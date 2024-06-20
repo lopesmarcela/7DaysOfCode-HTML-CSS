@@ -1,0 +1,22 @@
+.sobre-nos{
+    background-color: var(--branco);
+    text-align: center;
+    padding: 3em 12em;
+}
+
+.sobre-nos__spam{
+    font-weight: 600;
+    color: var(--vermelho-escuro);
+}
+
+.sobre-nos__titulo{
+    font-weight: 600;
+    font-size: 48px;
+    color: var(--preto);
+    margin: .5em 0;
+}
+
+.sobre-nos__texto{
+    font-size: 20px;
+    color: var(--cinza-claro);
+}
