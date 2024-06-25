@@ -1,0 +1,29 @@
+.vagas__procurando-talentos{
+    text-align: center;
+}
+
+.procurando-talentos__texto{
+    background-color: var(--cinza-claro);
+    color: var(--vermelho-escuro);
+    font-weight: 500;
+    font-size: 14px;
+    border-radius: 10px;
+    padding: .2em;
+}
+
+.procurando-talentos__titulo{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--preto);
+    margin: 1em 0;
+}
+
+.procurando-talentos__subtitulo{
+    font-size: 20px;
+    color: var(--cinza-claro);
+}
+
+.procurando-talentos__img{
+    margin: 1.5em 2em;
+    width: 85%;
+}
